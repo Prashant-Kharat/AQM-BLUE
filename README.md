@@ -6,7 +6,7 @@ Assignment: #FP1
 
 Overview: 
 
-BLUE uses packet loss and link idle events to manage congestion. This project will show us BLUE is performing well compare to RED in terms of packet loss rate and buffer size requirement in the network through ns-3 simulation.
+BLUE uses packet loss and link idle events to manage congestion. This project will show us BLUE is performing well compare to Random Early Detection (RED) in terms of packet loss rate and buffer size requirement in the network through ns-3 simulation.
  
 References:
 

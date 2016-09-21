@@ -1,4 +1,4 @@
-# BLUE AQM in ns-3
+#Active Queue Management Algorithm: BLUE
 #Implementation of BLUE AQM in ns-3
 
 Overview: 
